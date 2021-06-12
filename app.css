@@ -1,3 +1,17 @@
+@font-face {
+    font-family: siddhanta;
+    src: url('siddhanta.woff2') format('woff2'), /* Super Modern Browsers */
+         url('siddhanta.woff') format('woff'), /* Pretty Modern Browsers */
+         url('siddhanta.ttf')  format('truetype');
+}
+.devn {
+    font-size: 18px;
+    font-family: siddhanta;
+}
+.devnff {
+    font-size: 18px;
+    font-family: siddhanta;
+}
 .noun {
     background-color: #fbe6ce;
 }

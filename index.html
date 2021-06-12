@@ -33,7 +33,7 @@ webix.ui({
                         }
                     },
                     columns: [
-                        { id: "devn", header: ["Devanagari", {content: "textFilter"}], width: 200 },
+                        { id: "devn", header: ["Devanagari", {content: "textFilter"}], width: 200, css: "devn" },
                         { id: "iast", header: ["IAST", {content: "textFilter"}], width: 250 },
                         { id: "part", header: ["Part of Speech", {content: "textFilter"}], width: 250 },
                         { id: "gend", header: ["Gender", {content: "textFilter"}], width: 90 },
@@ -44,7 +44,7 @@ webix.ui({
                 { view: "resizer" },
                 { view: "form", id: "frm1", width: 500,
                     elements: [
-                        { view: "text", name: "devn", readonly: true },
+                        { view: "text", name: "devn", css: "devnff", readonly: true },
                         { view: "text", name: "iast", readonly: true },
                         { view: "textarea", name: "engl", readonly: true }
                     ]
