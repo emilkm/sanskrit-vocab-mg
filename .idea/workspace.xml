@@ -23,19 +23,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Run" type="JavascriptDebugType" uri="http://localhost:63342/sanskrit-vocab-mg/" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -49,7 +36,8 @@
       <option name="presentableId" value="Default" />
       <updated>1623466895587</updated>
       <workItem from="1623466901743" duration="13039000" />
-      <workItem from="1623505391646" duration="1391000" />
+      <workItem from="1623505391646" duration="2157000" />
+      <workItem from="1623507629425" duration="578000" />
     </task>
     <servers />
   </component>
