@@ -15,7 +15,17 @@ webix.ui({
                 { view: "datatable", id: "tbl1", url: "data.json", datatype: "json", select: "row",
                     scheme: {
                         $change: function(item) {
-                            item.$css = item.part;
+                            let css = item.part;
+                            if (css.includes("noun")) {
+                                css = "noun";
+                            } else if (css.includes("verb")) {
+                                css = "verb";
+                            } else if (css.includes("adj")) {
+                                css = "adjective";
+                            } else if (css.includes("adv")) {
+                                css = "adverb";
+                            }
+                            item.$css = css;
                         }
                     },
                     columns: [
