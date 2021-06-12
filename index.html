@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <link rel="stylesheet" href="//cdn.webix.com/edge/webix.css" type="text/css">
+        <script src="//cdn.webix.com/edge/webix.js" type="text/javascript"></script>
+        <link rel="stylesheet" href="app.css" type="text/css">
+    </head>
+    <body>
+        <script type="text/javascript" charset="utf-8">
+webix.ui({
+    rows: [
+        { view: "template", type: "header", template: "Sanskrit Vocab from Maurer and Goldmans" },
+        {
+            cols: [
+                { view: "datatable", id: "tbl1", url: "data.json", datatype: "json", select: "row",
+                    scheme: {
+                        $change: function(item) {
+                            item.$css = item.part;
+                        }
+                    },
+                    columns: [
+                        { id: "devn", header: ["Devanagari", {content: "textFilter"}], width: 200 },
+                        { id: "iast", header: ["IAST", {content: "textFilter"}], width: 250 },
+                        { id: "part", header: ["Part of Speech", {content: "textFilter"}], width: 250 },
+                        { id: "gend", header: ["Gender", {content: "textFilter"}], width: 90 },
+                        { id: "engl", header: ["English", {content: "textFilter"}], width: 500 },
+                        { id: "pada", header: ["Chapter", {content: "selectFilter"}], width: 300 }
+                    ],
+                },
+                { view: "resizer" },
+                { view: "form", id: "frm1", width: 500,
+                    elements: [
+                        { view: "text", name: "devn", readonly: true },
+                        { view: "text", name: "iast", readonly: true },
+                        { view: "textarea", name: "engl", readonly: true }
+                    ]
+                }
+            ]
+        }
+    ]
+});
+
+$$("frm1").bind("tbl1");
+        </script>
+    </body>
+</html>
+
