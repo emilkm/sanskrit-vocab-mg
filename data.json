@@ -216,7 +216,7 @@
     "pada": "G04"
   },
   {
-    "devn": "anu-√rañj (anurjyate)",
+    "devn": "अनु-√रñज् (अनुर्ज्यते)",
     "iast": "anu-√rañj (anurjyate)",
     "part": "verb, class 4 Ā",
     "gend": "",
@@ -292,7 +292,7 @@
     "iast": "anya",
     "part": "adjective",
     "gend": "",
-    "engl": "other [declined like the demonstrative pronouns, i.e., saḥ, tat, sā]",
+    "engl": "other [declined like the demonstrative pronouns, i.e., saḥ, tad/tat, sā]",
     "pada": "G05"
   },
   {
@@ -2080,11 +2080,19 @@
     "pada": "G05"
   },
   {
+    "devn": "तद्",
+    "iast": "tad",
+    "part": "pronoun",
+    "gend": "n",
+    "engl": "this, that \nCalled तद् by Indian grammarians, तत् by Western ones",
+    "pada": "M04"
+  },
+  {
     "devn": "तत्",
     "iast": "tat",
     "part": "pronoun",
     "gend": "n",
-    "engl": "this",
+    "engl": "this, that \nCalled तद् by Indian grammarians, तत् by Western ones",
     "pada": "G06"
   },
   {

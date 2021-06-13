@@ -7,6 +7,23 @@
     </head>
     <body>
         <script type="text/javascript" charset="utf-8">
+const options = [
+    { id: "M01", value: "M01" },
+    { id: "M02", value: "M02" },
+    { id: "M03", value: "M03" },
+    { id: "M04", value: "M04" },
+    { id: "M05", value: "M05" },
+    { id: "M06", value: "M06" },
+    { id: "M07", value: "M07" },
+    { id: "M08", value: "M08" },
+    { id: "M09", value: "M09" },
+    { id: "G04", value: "G04" },
+    { id: "G05", value: "G05" },
+    { id: "G06", value: "G06" },
+    { id: "G07", value: "G07" },
+    { id: "G08", value: "G08" },
+    { id: "G09", value: "G09" },
+];
 webix.ui({
     rows: [
         { view: "template", type: "header", template: "Sanskrit Vocab from Maurer and Goldmans (Search for 'atha' to find rows containing 'atha'. Search for '^atha' to find rows beginning with 'atha'.)" },
@@ -33,12 +50,12 @@ webix.ui({
                         }
                     },
                     columns: [
-                        { id: "devn", header: ["Devanagari", {content: "textFilter"}], sort: "string", width: 200, css: "devn" },
+                        { id: "devn", header: ["Devanagari", {content: "textFilter"}], sort: "string", width: 250, css: "devn" },
                         { id: "iast", header: ["IAST", {content: "textFilter"}], sort: "string", width: 250 },
                         { id: "part", header: ["Part of Speech", {content: "textFilter"}], sort: "string", width: 250 },
                         { id: "gend", header: ["Gender", {content: "textFilter"}], sort: "string", width: 90 },
                         { id: "engl", header: ["English", {content: "textFilter"}], sort: "string", width: 500 },
-                        { id: "pada", header: ["Chapter", {content: "selectFilter"}], width: 300 }
+                        { id: "pada", header: ["Chapter", {content: "selectFilter", options: options}], width: 300 }
                     ],
                 },
                 { view: "resizer" },
