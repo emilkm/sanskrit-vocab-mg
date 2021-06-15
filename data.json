@@ -3,7 +3,7 @@
     "devn": "अग्र",
     "iast": "agra",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "front; tip or end, top",
     "pada": "M07"
   },
@@ -11,7 +11,7 @@
     "devn": "अङ्ग",
     "iast": "aṅga",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "limb; body",
     "pada": ""
   },
@@ -59,7 +59,7 @@
     "devn": "अतिशय",
     "iast": "atiśaya",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "great degree, excess",
     "pada": "G12"
   },
@@ -128,7 +128,7 @@
     "pada": "M03"
   },
   {
-    "devn": "अधिक​",
+    "devn": "अधिक",
     "iast": "adhika",
     "part": "adjective",
     "gend": "",
@@ -160,10 +160,10 @@
     "pada": "M03, M05, M07, G11, G12"
   },
   {
-    "devn": "अध्याय​",
+    "devn": "अध्याय",
     "iast": "adhyāya",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a chapter",
     "pada": ""
   },
@@ -187,7 +187,7 @@
     "devn": "अनुज्ञा",
     "iast": "anujñā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "permission",
     "pada": "G07"
   },
@@ -203,7 +203,7 @@
     "devn": "अनुताप",
     "iast": "anutāpa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "remorse; regret [literally 'a burning or suffering after']",
     "pada": "M02"
   },
@@ -227,7 +227,7 @@
     "devn": "अनुराग",
     "iast": "anurāga",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "love, affection",
     "pada": "M08"
   },
@@ -235,7 +235,7 @@
     "devn": "अनुसार",
     "iast": "anusāra",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a going after, following; conformity, accordance; if in instrumental (anusareṇa) with genitive as quasi-postposed, then 'in accordance with,' or literally 'due to the following of'",
     "pada": "M05"
   },
@@ -248,7 +248,7 @@
     "pada": "G11"
   },
   {
-    "devn": "अनेक​",
+    "devn": "अनेक",
     "iast": "aneka",
     "part": "adjective",
     "gend": "",
@@ -283,7 +283,7 @@
     "devn": "अन्न",
     "iast": "anna",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "food [the ppp of √ad (atti) to eat]",
     "pada": "M01"
   },
@@ -363,7 +363,7 @@
     "devn": "अपराध",
     "iast": "aparādha",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "sin, offense",
     "pada": "G13"
   },
@@ -443,7 +443,7 @@
     "devn": "अभिषेक",
     "iast": "abhiṣeka",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "consecration, coronation",
     "pada": "G09"
   },
@@ -451,15 +451,15 @@
     "devn": "अम्बा",
     "iast": "ambā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "mother (irregular - saṃbodhanam, vocative = amba)",
     "pada": "G11"
   },
   {
-    "devn": "अयोध्या​",
+    "devn": "अयोध्या",
     "iast": "ayodhyā",
     "part": "proper noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "Ayodhyā, Daśaratha's capital city",
     "pada": "G05"
   },
@@ -467,7 +467,7 @@
     "devn": "अरण्यम्",
     "iast": "araṇya",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "forest",
     "pada": "G07"
   },
@@ -483,7 +483,7 @@
     "devn": "अर्थ",
     "iast": "artha",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "meaning",
     "pada": "G13"
   },
@@ -496,7 +496,7 @@
     "pada": "G13"
   },
   {
-    "devn": "अल्प​",
+    "devn": "अल्प",
     "iast": "alpa",
     "part": "adjective",
     "gend": "",
@@ -512,7 +512,7 @@
     "pada": "G06"
   },
   {
-    "devn": "अव​-√तॄ (अवतरति)",
+    "devn": "अव-√तॄ (अवतरति)",
     "iast": "ava-√tṝ (avatarati)",
     "part": "verb, class 1 P",
     "gend": "",
@@ -520,7 +520,7 @@
     "pada": ""
   },
   {
-    "devn": "अव​-√लोक् (अवलोकयति)",
+    "devn": "अव-√लोक् (अवलोकयति)",
     "iast": "ava-√lok (avalokayati)",
     "part": "verb, class 1 P",
     "gend": "",
@@ -528,7 +528,7 @@
     "pada": "M07"
   },
   {
-    "devn": "अव​श्यं​",
+    "devn": "अवश्यं",
     "iast": "avaśyaṃ",
     "part": "adverb",
     "gend": "",
@@ -536,7 +536,7 @@
     "pada": "M04"
   },
   {
-    "devn": "अव​-√स्था (अवतिष्ठति)",
+    "devn": "अव-√स्था (अवतिष्ठति)",
     "iast": "ava-√sthā (avatiṣṭhati)",
     "part": "verb, class 1 P",
     "gend": "",
@@ -563,7 +563,7 @@
     "devn": "अशनि",
     "iast": "aśani",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "bolt of lightening",
     "pada": "G11"
   },
@@ -571,7 +571,7 @@
     "devn": "अश्रु",
     "iast": "aśru",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "tear",
     "pada": "G13"
   },
@@ -579,7 +579,7 @@
     "devn": "अश्व",
     "iast": "aśva",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a horse",
     "pada": "M01, M03"
   },
@@ -651,7 +651,7 @@
     "devn": "आचार्य",
     "iast": "ācārya",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a teacher, preceptor",
     "pada": "M01"
   },
@@ -659,7 +659,7 @@
     "devn": "आज्ञा",
     "iast": "ājñā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "order, command",
     "pada": "G09"
   },
@@ -675,7 +675,7 @@
     "devn": "आत्मन्",
     "iast": "ātman",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "self, Self, commonly used as reflexive",
     "pada": "G08"
   },
@@ -683,7 +683,7 @@
     "devn": "आदित्य",
     "iast": "āditya",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "the sun",
     "pada": "M01"
   },
@@ -691,15 +691,15 @@
     "devn": "आनन",
     "iast": "ānana",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "face",
     "pada": "G13"
   },
   {
-    "devn": "आनन्द​",
+    "devn": "आनन्द",
     "iast": "ānanda",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "joy, bliss",
     "pada": "M04, G06"
   },
@@ -723,7 +723,7 @@
     "devn": "आभरण",
     "iast": "ābharaṇa",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "ornament",
     "pada": "M03"
   },
@@ -747,7 +747,7 @@
     "devn": "आर्य",
     "iast": "ārya",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "noble person, lord; as term of address = sir",
     "pada": "G11"
   },
@@ -755,7 +755,7 @@
     "devn": "आर्यपुत्र",
     "iast": "āryaputra",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "my lord\"; used by wife to husband",
     "pada": "G11"
   },
@@ -776,10 +776,10 @@
     "pada": "M07"
   },
   {
-    "devn": "आश्रम​",
+    "devn": "आश्रम",
     "iast": "āśrama",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "hermitage, ashram",
     "pada": "M01,M03, G06"
   },
@@ -787,7 +787,7 @@
     "devn": "आह्वान",
     "iast": "āhvāna",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "invitation",
     "pada": "M06"
   },
@@ -835,7 +835,7 @@
     "devn": "इन्द्र",
     "iast": "indra",
     "part": "proper noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "the god Indra",
     "pada": "g10"
   },
@@ -851,7 +851,7 @@
     "devn": "ईश्वर",
     "iast": "īśvara",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "lord",
     "pada": "M01, M04"
   },
@@ -867,7 +867,7 @@
     "devn": "इषु",
     "iast": "iṣu",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "arrow",
     "pada": "G07"
   },
@@ -891,7 +891,7 @@
     "devn": "ईर्ष्वा",
     "iast": "īrṣvā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "jealousy",
     "pada": "M08"
   },
@@ -939,7 +939,7 @@
     "devn": "उदर",
     "iast": "udara",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "belly",
     "pada": "G12"
   },
@@ -987,7 +987,7 @@
     "devn": "उद्यान",
     "iast": "udyāna",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a garden",
     "pada": "M01"
   },
@@ -1027,7 +1027,7 @@
     "devn": "उपकार",
     "iast": "upakāra",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "asistance, favor",
     "pada": "G11"
   },
@@ -1059,12 +1059,12 @@
     "devn": "ऋषि",
     "iast": "ṛṣi",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "sage, seer",
     "pada": "G06"
   },
   {
-    "devn": "एक​",
+    "devn": "एक",
     "iast": "eka",
     "part": "adjective",
     "gend": "",
@@ -1131,12 +1131,12 @@
     "devn": "कट",
     "iast": "kaṭa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a mat",
     "pada": "M01"
   },
   {
-    "devn": "कतिपय​",
+    "devn": "कतिपय",
     "iast": "katipaya",
     "part": "adjective",
     "gend": "",
@@ -1163,7 +1163,7 @@
     "devn": "कन्दर",
     "iast": "kandara",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a cave",
     "pada": "M07"
   },
@@ -1171,7 +1171,7 @@
     "devn": "कन्या",
     "iast": "kanyā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "daughter",
     "pada": "G07"
   },
@@ -1179,7 +1179,7 @@
     "devn": "कपट",
     "iast": "kapaṭa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "fraud, trickery",
     "pada": "M07"
   },
@@ -1187,7 +1187,7 @@
     "devn": "कपर्दक",
     "iast": "kapardaka",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a small seashell used as a coin in barter",
     "pada": "M08"
   },
@@ -1195,7 +1195,7 @@
     "devn": "कमल",
     "iast": "kamala",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a lotus",
     "pada": "M03"
   },
@@ -1219,7 +1219,7 @@
     "devn": "कर्तृ",
     "iast": "kartṛ",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "doer, agent, grammatical subject",
     "pada": "G10"
   },
@@ -1227,7 +1227,7 @@
     "devn": "कर्मन्",
     "iast": "karman",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "activity, religious act, grammatical object",
     "pada": "G08"
   },
@@ -1259,15 +1259,15 @@
     "devn": "कारण",
     "iast": "kāraṇa",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "reason, cause",
     "pada": "M07"
   },
   {
-    "devn": "काल​",
+    "devn": "काल",
     "iast": "kāla",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "time",
     "pada": "G05, M05, M06,M08"
   },
@@ -1355,7 +1355,7 @@
     "devn": "कुमार",
     "iast": "kumāra",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a young man",
     "pada": "M04"
   },
@@ -1363,7 +1363,7 @@
     "devn": "कुम्भ",
     "iast": "kumbha",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "pot",
     "pada": "G10"
   },
@@ -1371,15 +1371,15 @@
     "devn": "कुम्भकार",
     "iast": "kumbhakāra",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a maker of pots",
     "pada": "M08"
   },
   {
-    "devn": "कुल​",
+    "devn": "कुल",
     "iast": "kula",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "family",
     "pada": "M04"
   },
@@ -1403,7 +1403,7 @@
     "devn": "कृषीवल",
     "iast": "kṛṣīvala",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "farmer",
     "pada": "M01"
   },
@@ -1427,7 +1427,7 @@
     "devn": "केसराग्र (केसर+अग्र)",
     "iast": "kesarāgra (kesara+agra)",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "the tip or end of the hair or mane (a compound made up of kesara (m) hair, mane + agra (n) the tip  or  end",
     "pada": "M07"
   },
@@ -1443,7 +1443,7 @@
     "devn": "कोप",
     "iast": "kopa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "anger",
     "pada": "M08"
   },
@@ -1459,7 +1459,7 @@
     "devn": "क्रिया",
     "iast": "kriyā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "action",
     "pada": "M05"
   },
@@ -1507,7 +1507,7 @@
     "devn": "क्रोध",
     "iast": "krodha",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "anger",
     "pada": "M07"
   },
@@ -1515,7 +1515,7 @@
     "devn": "क्षण",
     "iast": "kṣaṇa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "an instant, a moment",
     "pada": "M04, G11"
   },
@@ -1531,7 +1531,7 @@
     "devn": "क्षय",
     "iast": "kṣaya",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "destruction; acc + √kṛ 'make a destruction of,' bring an end, exhaust",
     "pada": "M05"
   },
@@ -1555,7 +1555,7 @@
     "devn": "क्षुधा",
     "iast": "kṣudhā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "hunger",
     "pada": "M07"
   },
@@ -1579,7 +1579,7 @@
     "devn": "क्षेत्र",
     "iast": "kṣetra",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a field",
     "pada": "M01"
   },
@@ -1587,7 +1587,7 @@
     "devn": "ख",
     "iast": "kha",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "air, sky",
     "pada": "G12"
   },
@@ -1595,7 +1595,7 @@
     "devn": "खग",
     "iast": "khaga",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "bird",
     "pada": "G12"
   },
@@ -1603,7 +1603,7 @@
     "devn": "खण्द",
     "iast": "khaṇda",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a piece",
     "pada": "M07"
   },
@@ -1627,7 +1627,7 @@
     "devn": "गति",
     "iast": "gati",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "way, 'alternative' state of existance",
     "pada": "G06"
   },
@@ -1659,7 +1659,7 @@
     "devn": "गात्र",
     "iast": "gātra",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "limb",
     "pada": "G07"
   },
@@ -1667,7 +1667,7 @@
     "devn": "गर्जन",
     "iast": "garjana",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "thunder",
     "pada": "G10"
   },
@@ -1683,7 +1683,7 @@
     "devn": "गुण",
     "iast": "guṇa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "excellence, quality, virtue",
     "pada": "G05"
   },
@@ -1699,7 +1699,7 @@
     "devn": "गृहम्",
     "iast": "gṛha",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a house, home",
     "pada": "G04"
   },
@@ -1715,7 +1715,7 @@
     "devn": "गौतम",
     "iast": "gautama",
     "part": "proper noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "Gautama",
     "pada": "G10"
   },
@@ -1723,7 +1723,7 @@
     "devn": "ग्राम",
     "iast": "grāma",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a village",
     "pada": "M01, M04"
   },
@@ -1731,7 +1731,7 @@
     "devn": "घट",
     "iast": "ghaṭa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a pot",
     "pada": "M08"
   },
@@ -1755,7 +1755,7 @@
     "devn": "चक्षुस्",
     "iast": "cakṣus",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "eye",
     "pada": "G09"
   },
@@ -1771,7 +1771,7 @@
     "devn": "चतुष्टयम्",
     "iast": "catuṣṭaya",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a foursome, a set of four (goldmans cite in the nominative and don't give the stem - since we mostly follow Maurer, I took the m off to avoid confusion)",
     "pada": "G05"
   },
@@ -1787,7 +1787,7 @@
     "devn": "चरितम्",
     "iast": "caritam",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "adventures, life story",
     "pada": "G04"
   },
@@ -1803,7 +1803,7 @@
     "devn": "चाप",
     "iast": "cāpa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "bow",
     "pada": "G08"
   },
@@ -1819,7 +1819,7 @@
     "devn": "चित्त",
     "iast": "citta",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "the mind, heart",
     "pada": "M07, G12"
   },
@@ -1843,7 +1843,7 @@
     "devn": "चिन्ता",
     "iast": "cintā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "care, worry, anxiety",
     "pada": "G06"
   },
@@ -1875,7 +1875,7 @@
     "devn": "चेत",
     "iast": "ceta",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "intellect",
     "pada": "G09"
   },
@@ -1883,7 +1883,7 @@
     "devn": "छाग",
     "iast": "chāga",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a goat",
     "pada": "M07"
   },
@@ -1891,7 +1891,7 @@
     "devn": "छाया",
     "iast": "chāyā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "shade, shadow",
     "pada": "M04, M05"
   },
@@ -1923,23 +1923,23 @@
     "devn": "जन",
     "iast": "jana",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "person; as collective noun, people; plural, folk",
     "pada": "M01, M02, G04"
   },
   {
-    "devn": "जनक​",
+    "devn": "जनक",
     "iast": "janaka",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "father",
     "pada": "M01, M04"
   },
   {
-    "devn": "जनक​",
+    "devn": "जनक",
     "iast": "janaka",
     "part": "proper noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "name of Sītā's father, king of Mithilā",
     "pada": "G07, G08"
   },
@@ -1947,7 +1947,7 @@
     "devn": "जन्तु",
     "iast": "jantu",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a creature",
     "pada": "M07"
   },
@@ -1955,7 +1955,7 @@
     "devn": "जरा",
     "iast": "jarā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "old age",
     "pada": "G09"
   },
@@ -1963,7 +1963,7 @@
     "devn": "जल",
     "iast": "jala",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "water",
     "pada": "M01"
   },
@@ -1971,7 +1971,7 @@
     "devn": "जलाशय",
     "iast": "jalāśaya",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a lake",
     "pada": "M01, M03"
   },
@@ -1979,7 +1979,7 @@
     "devn": "जाल",
     "iast": "jāla",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a net, snare",
     "pada": "G12"
   },
@@ -2027,7 +2027,7 @@
     "devn": "जीवित",
     "iast": "jīvita",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "life",
     "pada": "M01"
   },
@@ -2043,7 +2043,7 @@
     "devn": "जेतृ",
     "iast": "jetṛ",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "victor, conqueror",
     "pada": "G10"
   },
@@ -2067,7 +2067,7 @@
     "devn": "ज्ञान",
     "iast": "jñāna",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "knowledge",
     "pada": "G12"
   },
@@ -2083,7 +2083,7 @@
     "devn": "तद्",
     "iast": "tad",
     "part": "pronoun",
-    "gend": "n",
+    "gend": "N",
     "engl": "this, that \nCalled तद् by Indian grammarians, तत् by Western ones",
     "pada": "M04"
   },
@@ -2091,12 +2091,12 @@
     "devn": "तत्",
     "iast": "tat",
     "part": "pronoun",
-    "gend": "n",
+    "gend": "N",
     "engl": "this, that \nCalled तद् by Indian grammarians, तत् by Western ones",
     "pada": "G06"
   },
   {
-    "devn": "ततः​",
+    "devn": "ततः",
     "iast": "tataḥ",
     "part": "adverb",
     "gend": "",
@@ -2131,7 +2131,7 @@
     "devn": "तप",
     "iast": "tapa",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "asceticism",
     "pada": "G09"
   },
@@ -2139,7 +2139,7 @@
     "devn": "तपस्विन्",
     "iast": "tapasvin",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "ascetic male",
     "pada": "G12"
   },
@@ -2147,12 +2147,12 @@
     "devn": "तपस्विनी",
     "iast": "tapasvinī",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "ascetic female",
     "pada": "G12"
   },
   {
-    "devn": "तदनन्तरम्​​",
+    "devn": "तदनन्तरम्",
     "iast": "tadanantaram",
     "part": "adverb",
     "gend": "",
@@ -2179,7 +2179,7 @@
     "devn": "तल",
     "iast": "tala",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "surface; plane",
     "pada": "G12"
   },
@@ -2195,15 +2195,15 @@
     "devn": "ताप",
     "iast": "tāpa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "heat",
     "pada": "M02"
   },
   {
-    "devn": "तापस​​",
+    "devn": "तापस",
     "iast": "tāpasa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "ascetic, yogi",
     "pada": "M01, M03"
   },
@@ -2232,10 +2232,10 @@
     "pada": "M08"
   },
   {
-    "devn": "तीर​",
+    "devn": "तीर",
     "iast": "tīra",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a bank or shore",
     "pada": "M03"
   },
@@ -2275,7 +2275,7 @@
     "devn": "तृण",
     "iast": "tṛṇa",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "blade of grass, a straw; often used metaphorically for something of little consequence or value",
     "pada": "G08"
   },
@@ -2283,7 +2283,7 @@
     "devn": "तेज",
     "iast": "teja",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "splendor",
     "pada": "G09"
   },
@@ -2296,7 +2296,7 @@
     "pada": "M07"
   },
   {
-    "devn": "√त्यज् (त्यजति)​​",
+    "devn": "√त्यज् (त्यजति)",
     "iast": "√tyaj (tyajati)",
     "part": "verb, class 1 P",
     "gend": "",
@@ -2312,7 +2312,7 @@
     "pada": "M04, G04"
   },
   {
-    "devn": "दरिद्र​​​​",
+    "devn": "दरिद्र",
     "iast": "daridra",
     "part": "adjective",
     "gend": "",
@@ -2323,7 +2323,7 @@
     "devn": "दर्शन",
     "iast": "darśana",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "the act of seeing, seeing, looking at, view",
     "pada": "M02"
   },
@@ -2331,7 +2331,7 @@
     "devn": "दशरथ",
     "iast": "daśaratha",
     "part": "proper noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "Rāma's father, Daśaratha",
     "pada": "G04"
   },
@@ -2363,7 +2363,7 @@
     "devn": "दिवस",
     "iast": "divasa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a day",
     "pada": "M04, M07"
   },
@@ -2376,7 +2376,7 @@
     "pada": "G10"
   },
   {
-    "devn": "दुर्लभ​​​",
+    "devn": "दुर्लभ",
     "iast": "durlabha",
     "part": "adjective",
     "gend": "",
@@ -2387,7 +2387,7 @@
     "devn": "दुःखम्",
     "iast": "duḥkham",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "sorrow, misery",
     "pada": "G04"
   },
@@ -2411,7 +2411,7 @@
     "devn": "दुष्कृतम्",
     "iast": "duṣkṛtam",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "evil act",
     "pada": "G04"
   },
@@ -2427,7 +2427,7 @@
     "devn": "दुहितृ",
     "iast": "duhitṛ",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "daughter",
     "pada": "G10"
   },
@@ -2456,10 +2456,10 @@
     "pada": "M03"
   },
   {
-    "devn": "देव​",
+    "devn": "देव",
     "iast": "deva",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a god; a king",
     "pada": "M03, G06"
   },
@@ -2467,7 +2467,7 @@
     "devn": "देवी",
     "iast": "devī",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "lady, queen",
     "pada": "G07"
   },
@@ -2475,7 +2475,7 @@
     "devn": "देवनागरी",
     "iast": "devn",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "one of the most common scripts in which Sanskrit is written",
     "pada": "G01"
   },
@@ -2483,7 +2483,7 @@
     "devn": "देश",
     "iast": "deśa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "place, region",
     "pada": "G07"
   },
@@ -2491,7 +2491,7 @@
     "devn": "द्रव्य",
     "iast": "dravya",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a thing (in the most general sense), article",
     "pada": "M04, M08"
   },
@@ -2499,12 +2499,12 @@
     "devn": "द्वन्द्व",
     "iast": "dvandva",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a quarrel",
     "pada": "M08"
   },
   {
-    "devn": "द्वरे​",
+    "devn": "द्वरे",
     "iast": "dvare",
     "part": "adverb",
     "gend": "",
@@ -2523,7 +2523,7 @@
     "devn": "द्विज",
     "iast": "dvija",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "(m) usually used to indicate the priestly caste of the Brāhmaṇas; literally,'twice-born,' a term applied to a member of the upper three classes of Hindu society, because when they receive the sacred thread, they are said to go through a second birth. Also, any animal born of an egg is also called dvija, twice-born.",
     "pada": "M06, G06, M07"
   },
@@ -2536,10 +2536,10 @@
     "pada": "G11"
   },
   {
-    "devn": "धन​",
+    "devn": "धन",
     "iast": "dhana",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "wealth",
     "pada": "M01"
   },
@@ -2547,7 +2547,7 @@
     "devn": "धनुस्",
     "iast": "dhanus",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "bow (as in archer)",
     "pada": "G09"
   },
@@ -2555,7 +2555,7 @@
     "devn": "धनुर्वेद",
     "iast": "dhanurveda",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "the science of archery",
     "pada": "G06"
   },
@@ -2563,7 +2563,7 @@
     "devn": "धरा",
     "iast": "dharā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "earth",
     "pada": "G12"
   },
@@ -2571,7 +2571,7 @@
     "devn": "धर्म",
     "iast": "dharma",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "law, duty, right, \"etc\"; Hareesh has advised using Dharma instead of trying to imperfectly translate",
     "pada": "G12"
   },
@@ -2603,7 +2603,7 @@
     "devn": "धूर्त",
     "iast": "dhūrta",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a rogue",
     "pada": "M07"
   },
@@ -2624,10 +2624,10 @@
     "pada": "M07"
   },
   {
-    "devn": "ध्यान​​",
+    "devn": "ध्यान",
     "iast": "dhyāna",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "meditation",
     "pada": "M01, M05, G07"
   },
@@ -2640,10 +2640,10 @@
     "pada": "M01, G04, M06"
   },
   {
-    "devn": "नकुल​",
+    "devn": "नकुल",
     "iast": "nakula",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "mongoose",
     "pada": "M06"
   },
@@ -2651,7 +2651,7 @@
     "devn": "नगर",
     "iast": "nagara",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "city, town",
     "pada": "M01, M02, M03, G10"
   },
@@ -2683,15 +2683,15 @@
     "devn": "नम",
     "iast": "nama",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "reverence, homage, bow of respect",
     "pada": "G09"
   },
   {
-    "devn": "नर​​",
+    "devn": "नर",
     "iast": "nara",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "man",
     "pada": "M01, M05"
   },
@@ -2699,7 +2699,7 @@
     "devn": "नरक",
     "iast": "naraka",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "hell",
     "pada": "M02, M05"
   },
@@ -2707,7 +2707,7 @@
     "devn": "नरेश्वर",
     "iast": "nareśvara",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "lord of men,\" a king",
     "pada": "M01, M02, M06"
   },
@@ -2739,7 +2739,7 @@
     "devn": "नाम",
     "iast": "nāma",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "name",
     "pada": "G08"
   },
@@ -2755,7 +2755,7 @@
     "devn": "नामधेय",
     "iast": "nāmadheya",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "name",
     "pada": "G05"
   },
@@ -2763,7 +2763,7 @@
     "devn": "नारी",
     "iast": "nārī",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "woman, wife",
     "pada": "G06, M08"
   },
@@ -2779,7 +2779,7 @@
     "devn": "निद्रा",
     "iast": "nidrā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "sleep, a dream",
     "pada": "M04, M07, G12"
   },
@@ -2851,7 +2851,7 @@
     "devn": "निवेशन",
     "iast": "niveśana",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "dwelling; a room or chamber",
     "pada": "M02"
   },
@@ -2859,7 +2859,7 @@
     "devn": "निशा",
     "iast": "niśā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "night",
     "pada": "M07"
   },
@@ -2867,7 +2867,7 @@
     "devn": "निशाचर",
     "iast": "niśācara",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "literally 'night roamer,' a rākṣasa",
     "pada": "G07"
   },
@@ -2963,7 +2963,7 @@
     "devn": "नृप",
     "iast": "nṛpa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "king",
     "pada": "M01, M02, M03, G04"
   },
@@ -2971,7 +2971,7 @@
     "devn": "नेतृ",
     "iast": "netṛ",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "leader",
     "pada": "G10"
   },
@@ -2979,7 +2979,7 @@
     "devn": "न्यग्रोधपादप",
     "iast": "nyagrodhapādapa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a banyan tree",
     "pada": "M03, M04"
   },
@@ -3003,7 +3003,7 @@
     "devn": "पति",
     "iast": "pati",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "lord, husband; irregular declension when used as husband not in a compound",
     "pada": "G12"
   },
@@ -3011,15 +3011,15 @@
     "devn": "पत्र",
     "iast": "patra",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "leaf",
     "pada": "G08"
   },
   {
-    "devn": "पत्त्र​",
+    "devn": "पत्त्र",
     "iast": "pattra",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "letter",
     "pada": "M01"
   },
@@ -3027,7 +3027,7 @@
     "devn": "पत्नी",
     "iast": "patnī",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "a wife",
     "pada": "M08, G12"
   },
@@ -3099,7 +3099,7 @@
     "devn": "पर्णशाला",
     "iast": "parṇaśālā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "a leaf-hut (used by ascetics in the forest)",
     "pada": "M04"
   },
@@ -3107,7 +3107,7 @@
     "devn": "पर्वत",
     "iast": "parvata",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "mountain",
     "pada": "M07"
   },
@@ -3128,7 +3128,7 @@
     "pada": "M03"
   },
   {
-    "devn": "पाप​",
+    "devn": "पाप",
     "iast": "pāpa",
     "part": "adjective",
     "gend": "",
@@ -3139,7 +3139,7 @@
     "devn": "पापा",
     "iast": "pāpā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "wicked woman",
     "pada": "G12"
   },
@@ -3147,7 +3147,7 @@
     "devn": "पार",
     "iast": "pāra",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "literally 'far shore;' with √gam: excel at, fully comprehend",
     "pada": "G06"
   },
@@ -3163,7 +3163,7 @@
     "devn": "पार्थिव",
     "iast": "pārthiva",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a prince, a king",
     "pada": "M01, G05"
   },
@@ -3171,7 +3171,7 @@
     "devn": "पार्श्व",
     "iast": "pārśva",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "side",
     "pada": "M02, M03"
   },
@@ -3187,7 +3187,7 @@
     "devn": "पाल",
     "iast": "pāla",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "protector",
     "pada": "M06"
   },
@@ -3203,7 +3203,7 @@
     "devn": "पितृ",
     "iast": "pitṛ",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "father",
     "pada": "G10"
   },
@@ -3227,7 +3227,7 @@
     "devn": "पुत्र",
     "iast": "putra",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "son",
     "pada": "M04, G04, M06,"
   },
@@ -3267,7 +3267,7 @@
     "devn": "पुरुष",
     "iast": "puruṣa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "man, person",
     "pada": "G06"
   },
@@ -3307,7 +3307,7 @@
     "devn": "प्रकार",
     "iast": "prakāra",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "manner, way",
     "pada": "M08"
   },
@@ -3320,10 +3320,10 @@
     "pada": "G06"
   },
   {
-    "devn": "प्रजा​",
+    "devn": "प्रजा",
     "iast": "prajā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "offspring, children, people of a kingdom or realm",
     "pada": "G05"
   },
@@ -3392,7 +3392,7 @@
     "pada": "M04, G09"
   },
   {
-    "devn": "प्रत्युक्त​",
+    "devn": "प्रत्युक्त",
     "iast": "pratyukta",
     "part": "ppp",
     "gend": "",
@@ -3408,15 +3408,15 @@
     "pada": "G11"
   },
   {
-    "devn": "प्रभाव​",
+    "devn": "प्रभाव",
     "iast": "prabhāva",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "power",
     "pada": "M01, G08"
   },
   {
-    "devn": "प्रभूत​​​",
+    "devn": "प्रभूत",
     "iast": "prabhūta",
     "part": "adjective",
     "gend": "",
@@ -3443,7 +3443,7 @@
     "devn": "प्रयत्न",
     "iast": "prayatna",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "an effort, ablative: with effort, with care",
     "pada": "M04, M07, G12"
   },
@@ -3488,10 +3488,10 @@
     "pada": "M08"
   },
   {
-    "devn": "प्रासाद​",
+    "devn": "प्रासाद",
     "iast": "prāsāda",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a palace",
     "pada": "M01, M02, G12"
   },
@@ -3504,10 +3504,10 @@
     "pada": "G06"
   },
   {
-    "devn": "फल​",
+    "devn": "फल",
     "iast": "phala",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a fruit",
     "pada": "M01, M02"
   },
@@ -3515,7 +3515,7 @@
     "devn": "बन्धनागार",
     "iast": "bandhanāgāra",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "prison",
     "pada": "G10"
   },
@@ -3547,7 +3547,7 @@
     "devn": "बान",
     "iast": "bāna",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "arrow",
     "pada": "G06"
   },
@@ -3571,7 +3571,7 @@
     "devn": "बाल",
     "iast": "bāla",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "child",
     "pada": "M02"
   },
@@ -3579,7 +3579,7 @@
     "devn": "बालक",
     "iast": "bālaka",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "boy, young man",
     "pada": "G04"
   },
@@ -3595,7 +3595,7 @@
     "devn": "बुद्ध",
     "iast": "buddha",
     "part": "proper noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "Buddha",
     "pada": "G10"
   },
@@ -3603,7 +3603,7 @@
     "devn": "बुद्धि",
     "iast": "buddhi",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "wit, intelligence",
     "pada": "G11"
   },
@@ -3635,7 +3635,7 @@
     "devn": "ब्रह्मन्",
     "iast": "brahman",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "Brahma, absolute reality",
     "pada": "G09"
   },
@@ -3643,7 +3643,7 @@
     "devn": "ब्रह्मन्",
     "iast": "brahman",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "the god Brahmā",
     "pada": "G09, G12"
   },
@@ -3651,7 +3651,7 @@
     "devn": "ब्राह्मण",
     "iast": "brāhmaṇa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a Brāhman, priest",
     "pada": "M01, G04"
   },
@@ -3691,7 +3691,7 @@
     "devn": "भङ्ग",
     "iast": "bhaṅga",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "the act of breaking, breaking",
     "pada": "M08"
   },
@@ -3707,15 +3707,15 @@
     "devn": "भय",
     "iast": "bhaya",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "fear",
     "pada": "M02, M07"
   },
   {
-    "devn": "भरत​",
+    "devn": "भरत",
     "iast": "bharata",
     "part": "proper noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "Bharata - one of Rāma's brothers",
     "pada": "G05"
   },
@@ -3723,7 +3723,7 @@
     "devn": "भर्तृ",
     "iast": "bhartṛ",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "husband, lord (Goldmans note that even though it seems like a kinship term, it belongs to the class of agent nouns)",
     "pada": "G10"
   },
@@ -3731,7 +3731,7 @@
     "devn": "भाण्ड",
     "iast": "bhāṇḍa",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a vessel, pot, dish",
     "pada": "M08"
   },
@@ -3747,7 +3747,7 @@
     "devn": "भाग",
     "iast": "bhāga",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a part",
     "pada": "M02"
   },
@@ -3755,7 +3755,7 @@
     "devn": "भार",
     "iast": "bhāra",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "load, weight, burden",
     "pada": "G09"
   },
@@ -3763,7 +3763,7 @@
     "devn": "भार्या",
     "iast": "bhāryā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "wife",
     "pada": "M06, g05"
   },
@@ -3787,7 +3787,7 @@
     "devn": "भीति",
     "iast": "bhīti",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "fear",
     "pada": "G10"
   },
@@ -3811,7 +3811,7 @@
     "devn": "भूमि",
     "iast": "bhūmi",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "ground, earth, land",
     "pada": "M07, G07, G10"
   },
@@ -3819,7 +3819,7 @@
     "devn": "भूमिप",
     "iast": "bhūmipa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a king",
     "pada": "G04"
   },
@@ -3835,7 +3835,7 @@
     "devn": "भोजन",
     "iast": "bhojana",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "food",
     "pada": "G11"
   },
@@ -3843,7 +3843,7 @@
     "devn": "भ्रातृ",
     "iast": "bhrātṛ",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "brother",
     "pada": "G10"
   },
@@ -3851,7 +3851,7 @@
     "devn": "मध्य",
     "iast": "madhya",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "the middle",
     "pada": "M02, M03, M04"
   },
@@ -3867,7 +3867,7 @@
     "devn": "मणि",
     "iast": "maṇi",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "jewel",
     "pada": "G10"
   },
@@ -3875,7 +3875,7 @@
     "devn": "मण्डपिका",
     "iast": "maṇḍapikā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "a shed",
     "pada": "M08"
   },
@@ -3891,7 +3891,7 @@
     "devn": "मन",
     "iast": "mana",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "mind",
     "pada": "G09"
   },
@@ -3899,7 +3899,7 @@
     "devn": "मनुष",
     "iast": "manuṣa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a man",
     "pada": "M01"
   },
@@ -3912,7 +3912,7 @@
     "pada": "M05"
   },
   {
-    "devn": "मम​",
+    "devn": "मम",
     "iast": "mama",
     "part": "pronoun",
     "gend": "",
@@ -3931,7 +3931,7 @@
     "devn": "महादेव",
     "iast": "mahādeva",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "great god,' applied to both Viṣṇu and Śiva",
     "pada": "M04"
   },
@@ -3947,7 +3947,7 @@
     "devn": "महाराज",
     "iast": "mahārāja",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a great king, a supreme sovereign",
     "pada": "M03"
   },
@@ -3963,7 +3963,7 @@
     "devn": "मातृ",
     "iast": "mātṛ",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "mother",
     "pada": "G10"
   },
@@ -3979,7 +3979,7 @@
     "devn": "मांस",
     "iast": "māṃsa",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "meat",
     "pada": "M07"
   },
@@ -3987,7 +3987,7 @@
     "devn": "मारण",
     "iast": "māraṇa",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "the act of killing, killing",
     "pada": "M02"
   },
@@ -3995,7 +3995,7 @@
     "devn": "मर्ग",
     "iast": "mārga",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a road, path",
     "pada": "M02, G10"
   },
@@ -4003,7 +4003,7 @@
     "devn": "मार्जार",
     "iast": "mārjāra",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a cat",
     "pada": "M07"
   },
@@ -4011,7 +4011,7 @@
     "devn": "मालवदेश",
     "iast": "mālavadeśa",
     "part": "proper noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "the Mālava country in west-central India",
     "pada": "M02"
   },
@@ -4019,7 +4019,7 @@
     "devn": "माल्य",
     "iast": "mālya",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a garland",
     "pada": "M01"
   },
@@ -4027,7 +4027,7 @@
     "devn": "मित्र",
     "iast": "mitra",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a friend",
     "pada": "M08"
   },
@@ -4035,7 +4035,7 @@
     "devn": "मिथिला",
     "iast": "mithilā",
     "part": "proper noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "City of Mithilā",
     "pada": "G07"
   },
@@ -4051,7 +4051,7 @@
     "devn": "मुनि",
     "iast": "muni",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "sage",
     "pada": "G06"
   },
@@ -4067,7 +4067,7 @@
     "devn": "मूर्ख",
     "iast": "mūrkha",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a fool",
     "pada": "G04"
   },
@@ -4075,7 +4075,7 @@
     "devn": "मूषक",
     "iast": "mūṣaka",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a mouse",
     "pada": "M07"
   },
@@ -4083,7 +4083,7 @@
     "devn": "मृग",
     "iast": "mṛga",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a deer",
     "pada": "M01, M02, G04"
   },
@@ -4099,7 +4099,7 @@
     "devn": "मोक्ष",
     "iast": "mokṣa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "release from rebirth, liberation, salvation",
     "pada": "M04"
   },
@@ -4107,7 +4107,7 @@
     "devn": "यज्",
     "iast": "yaj",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a sacrifice",
     "pada": "G05"
   },
@@ -4123,7 +4123,7 @@
     "devn": "यज्ञ",
     "iast": "yajña",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "ritual offering to the gods (a Vedic sacrifice)",
     "pada": "M01, G05"
   },
@@ -4147,7 +4147,7 @@
     "devn": "यत्",
     "iast": "yat",
     "part": "relative pronoun",
-    "gend": "n",
+    "gend": "N",
     "engl": "what (relative); also used (according to Goldmans, Chap 7) to introduce direct or indirect discourses, used with or without iti at the end.",
     "pada": "G06, G07, G08"
   },
@@ -4160,7 +4160,7 @@
     "pada": "G06"
   },
   {
-    "devn": "यत्र​",
+    "devn": "यत्र",
     "iast": "yatra",
     "part": "adverb",
     "gend": "",
@@ -4211,7 +4211,7 @@
     "devn": "यव",
     "iast": "yava",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "barley",
     "pada": "M08"
   },
@@ -4243,7 +4243,7 @@
     "devn": "युद्ध",
     "iast": "yuddha",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a battle",
     "pada": "M01"
   },
@@ -4259,7 +4259,7 @@
     "devn": "रक्त",
     "iast": "rakta",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "blood [really a ppp of √raj (rajyati), class 4, be colored, be red; hence literally 'colored, red']",
     "pada": "M06"
   },
@@ -4267,7 +4267,7 @@
     "devn": "रक्षण",
     "iast": "rakṣaṇa",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "protection",
     "pada": "G07"
   },
@@ -4275,7 +4275,7 @@
     "devn": "रक्षस",
     "iast": "rakṣasa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "protector",
     "pada": "G06"
   },
@@ -4283,7 +4283,7 @@
     "devn": "रथ",
     "iast": "ratha",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a chariot",
     "pada": "M01, M02, M03"
   },
@@ -4299,7 +4299,7 @@
     "devn": "राक्षस",
     "iast": "rākṣasa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "demon",
     "pada": "G06"
   },
@@ -4307,7 +4307,7 @@
     "devn": "राघव",
     "iast": "rāghava",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "descendant of Raghu (i.e., Rāma)",
     "pada": "G07"
   },
@@ -4315,7 +4315,7 @@
     "devn": "राजन्",
     "iast": "rājan",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "king",
     "pada": "G08"
   },
@@ -4323,7 +4323,7 @@
     "devn": "राजर्षि",
     "iast": "rājarṣi",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "royal sage, royal seer",
     "pada": "G12"
   },
@@ -4331,7 +4331,7 @@
     "devn": "राज्य",
     "iast": "rājya",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "kingly rule, kingdom (with √kṛ: to rule, reign)",
     "pada": "G04, G05"
   },
@@ -4339,7 +4339,7 @@
     "devn": "रात्री",
     "iast": "rātrī",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "the night",
     "pada": "M08"
   },
@@ -4355,7 +4355,7 @@
     "devn": "लक्ष्मण",
     "iast": "lakṣmaṇa",
     "part": "proper noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "Lakṣmaṇa - one of Rāma's brothers",
     "pada": "G04, G05"
   },
@@ -4363,7 +4363,7 @@
     "devn": "लगुड",
     "iast": "laguḍa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a club or cudgel",
     "pada": "M06"
   },
@@ -4376,7 +4376,7 @@
     "pada": "G06"
   },
   {
-    "devn": "लब्ध​",
+    "devn": "लब्ध",
     "iast": "labdha",
     "part": "ppp",
     "gend": "",
@@ -4400,10 +4400,10 @@
     "pada": "G12"
   },
   {
-    "devn": "लाभ​",
+    "devn": "लाभ",
     "iast": "lābha",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "attainment, acquisition",
     "pada": "M04"
   },
@@ -4419,7 +4419,7 @@
     "devn": "लीला",
     "iast": "līlā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "play, sport",
     "pada": "G08"
   },
@@ -4427,15 +4427,15 @@
     "devn": "लेष",
     "iast": "leṣa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "small bit, trace, little",
     "pada": "G10"
   },
   {
-    "devn": "लोक​",
+    "devn": "लोक",
     "iast": "loka",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "the world",
     "pada": "M01, M04, G08"
   },
@@ -4448,15 +4448,15 @@
     "pada": "M07"
   },
   {
-    "devn": "वचन​",
+    "devn": "वचन",
     "iast": "vacana",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "speech, words",
     "pada": "M05, G05"
   },
   {
-    "devn": "वज्र​",
+    "devn": "वज्र",
     "iast": "vajra",
     "part": "noun",
     "gend": "m, n",
@@ -4475,7 +4475,7 @@
     "devn": "वंश",
     "iast": "vaṃśa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a flute; race, lineage, family",
     "pada": "M03, G12"
   },
@@ -4483,7 +4483,7 @@
     "devn": "वन",
     "iast": "vana",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "forest",
     "pada": "M01, M02, M03, G04"
   },
@@ -4491,7 +4491,7 @@
     "devn": "वर",
     "iast": "vara",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "boon, wish",
     "pada": "G11"
   },
@@ -4499,7 +4499,7 @@
     "devn": "वर्ष",
     "iast": "varṣa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a year",
     "pada": "M04"
   },
@@ -4520,7 +4520,7 @@
     "pada": "M04, G11"
   },
   {
-    "devn": "√वह् (वहति)​",
+    "devn": "√वह् (वहति)",
     "iast": "√vah (vahati)",
     "part": "verb, class 1 P",
     "gend": "",
@@ -4539,7 +4539,7 @@
     "devn": "विचार",
     "iast": "vicāra",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "deliberation, hesitation",
     "pada": "G12"
   },
@@ -4554,7 +4554,7 @@
   {
     "devn": "√विद् (वेत्ति)",
     "iast": "√vid (vetti)",
-    "part": "verb, class 2P",
+    "part": "verb, class 2 P",
     "gend": "",
     "engl": "know, recognize; ppp: vidita, infiitive: veditum or vettum, gerund: viditvā",
     "pada": "M05, M06, M07"
@@ -4579,7 +4579,7 @@
     "devn": "विद्या",
     "iast": "vidyā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "knowledge",
     "pada": "M05"
   },
@@ -4611,7 +4611,7 @@
     "devn": "विवर",
     "iast": "vivara",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "an opening, hole",
     "pada": "M07"
   },
@@ -4651,7 +4651,7 @@
     "devn": "विषाद",
     "iast": "viṣāda",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "sorrow, despair, dejection, despondancy",
     "pada": "M04, M06,"
   },
@@ -4664,10 +4664,10 @@
     "pada": "G05"
   },
   {
-    "devn": "विहग​",
+    "devn": "विहग",
     "iast": "vihaga",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a bird",
     "pada": "M03"
   },
@@ -4675,7 +4675,7 @@
     "devn": "वृक्ष",
     "iast": "vṛkṣa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a tree",
     "pada": "M01, M02, M03, M05, G11"
   },
@@ -4731,7 +4731,7 @@
     "devn": "वृषभ",
     "iast": "vṛṣabha",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "bull",
     "pada": "M02"
   },
@@ -4739,7 +4739,7 @@
     "devn": "वेद",
     "iast": "veda",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "Veda",
     "pada": "G06"
   },
@@ -4779,7 +4779,7 @@
     "devn": "शकट",
     "iast": "śakaṭa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a cart or wagon",
     "pada": "M02"
   },
@@ -4803,7 +4803,7 @@
     "devn": "शत्रु",
     "iast": "śatru",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "enemy",
     "pada": "G12"
   },
@@ -4811,7 +4811,7 @@
     "devn": "शत्रुघ्न",
     "iast": "śatrughna",
     "part": "proper noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "Śatrughna - one of Rāma's brothers",
     "pada": "G05"
   },
@@ -4835,7 +4835,7 @@
     "devn": "शब्द",
     "iast": "śabda",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a sound, noise",
     "pada": "M03, M07"
   },
@@ -4843,7 +4843,7 @@
     "devn": "शम्भु",
     "iast": "śambhu",
     "part": "proper noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "another name for Śiva",
     "pada": "G08"
   },
@@ -4859,7 +4859,7 @@
     "devn": "शय्या",
     "iast": "śayyā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "a bed",
     "pada": "M06, M08"
   },
@@ -4867,7 +4867,7 @@
     "devn": "शर",
     "iast": "śara",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "an arrow",
     "pada": "M02"
   },
@@ -4875,7 +4875,7 @@
     "devn": "शराव",
     "iast": "śarāva",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a plate",
     "pada": "M08"
   },
@@ -4891,7 +4891,7 @@
     "devn": "शाप",
     "iast": "śāpa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a curse",
     "pada": "G05"
   },
@@ -4899,7 +4899,7 @@
     "devn": "शिष्य",
     "iast": "śiṣya",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a pupil",
     "pada": "M01"
   },
@@ -4939,7 +4939,7 @@
     "devn": "शूर",
     "iast": "śura",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a hero",
     "pada": "M01"
   },
@@ -4947,7 +4947,7 @@
     "devn": "शोक",
     "iast": "śoka",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "grief, sorrow",
     "pada": "G04"
   },
@@ -4963,7 +4963,7 @@
     "devn": "श्रवण",
     "iast": "śravaṇa",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "hearing",
     "pada": "G10"
   },
@@ -4971,7 +4971,7 @@
     "devn": "श्रीरामः",
     "iast": "śrīrāmaḥ",
     "part": "proper noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "glorious Rāma",
     "pada": "G04"
   },
@@ -5011,7 +5011,7 @@
     "devn": "श्वन्",
     "iast": "śvan",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a dog",
     "pada": "M07"
   },
@@ -5024,7 +5024,7 @@
     "pada": ""
   },
   {
-    "devn": "श्वेत​",
+    "devn": "श्वेत",
     "iast": "śveta",
     "part": "adjective",
     "gend": "",
@@ -5043,7 +5043,7 @@
     "devn": "सत्य",
     "iast": "satya",
     "part": "adjective",
-    "gend": "n",
+    "gend": "N",
     "engl": "real, true",
     "pada": "G10"
   },
@@ -5051,7 +5051,7 @@
     "devn": "सत्य",
     "iast": "satya",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "truth, reality",
     "pada": "M04, G10"
   },
@@ -5064,7 +5064,7 @@
     "pada": "M03, M06,"
   },
   {
-    "devn": "√सद् (सीदति)​",
+    "devn": "√सद् (सीदति)",
     "iast": "√sad (sīdati)",
     "part": "verb, class 1 irreg P",
     "gend": "",
@@ -5075,7 +5075,7 @@
     "devn": "सदन",
     "iast": "sadana",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "palace",
     "pada": "G12"
   },
@@ -5088,7 +5088,7 @@
     "pada": "M07"
   },
   {
-    "devn": "सधन​",
+    "devn": "सधन",
     "iast": "sadhana",
     "part": "adjective",
     "gend": "",
@@ -5099,7 +5099,7 @@
     "devn": "षण्ड",
     "iast": "ṣaṇḍa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a clump",
     "pada": "M03"
   },
@@ -5107,7 +5107,7 @@
     "devn": "संजा",
     "iast": "saṃjā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "consciousness",
     "pada": "G12"
   },
@@ -5131,7 +5131,7 @@
     "devn": "समय",
     "iast": "samaya",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "time, period of time",
     "pada": "G11"
   },
@@ -5155,7 +5155,7 @@
     "devn": "समीप",
     "iast": "samīpa",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "vicinity; nearness, presence; locative samīpe + genitive = near",
     "pada": "M01, M02, M05, M06, G11"
   },
@@ -5171,7 +5171,7 @@
     "devn": "संचय",
     "iast": "saṃcaya",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a heap, accumulation (Maurer says to pronounce as if written sañcaya)",
     "pada": "M08"
   },
@@ -5187,7 +5187,7 @@
     "devn": "संतोष",
     "iast": "saṃtoṣa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "joy (Maurer says pronounce like sañtoṣa)",
     "pada": "M08"
   },
@@ -5203,7 +5203,7 @@
     "devn": "सभा",
     "iast": "sabhā",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "assembly",
     "pada": "G08"
   },
@@ -5216,10 +5216,10 @@
     "pada": "G04"
   },
   {
-    "devn": "सर्प​",
+    "devn": "सर्प",
     "iast": "sarpa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a serpent",
     "pada": "M06"
   },
@@ -5264,7 +5264,7 @@
     "pada": "G06"
   },
   {
-    "devn": "सह​",
+    "devn": "सह",
     "iast": "saha",
     "part": "indeclinable",
     "gend": "",
@@ -5283,7 +5283,7 @@
     "devn": "सागर",
     "iast": "sāgara",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "ocean",
     "pada": "G10"
   },
@@ -5299,7 +5299,7 @@
     "devn": "साधु",
     "iast": "sādhu",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "sage, holy man",
     "pada": "G09"
   },
@@ -5315,7 +5315,7 @@
     "devn": "सिंह",
     "iast": "siṃha",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a lion",
     "pada": "M07"
   },
@@ -5323,7 +5323,7 @@
     "devn": "सीता",
     "iast": "sītā",
     "part": "proper noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "Sītā",
     "pada": "G06"
   },
@@ -5339,7 +5339,7 @@
     "devn": "सुकृत",
     "iast": "sukṛta",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a meritorious deed",
     "pada": "M05"
   },
@@ -5347,7 +5347,7 @@
     "devn": "सुख",
     "iast": "sukha",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "pleasure, happiness",
     "pada": "M01"
   },
@@ -5395,7 +5395,7 @@
     "devn": "सुत",
     "iast": "suta",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "son",
     "pada": "G12"
   },
@@ -5403,7 +5403,7 @@
     "devn": "सूत",
     "iast": "sūta",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "charioteer",
     "pada": "M01, M03, M02"
   },
@@ -5411,7 +5411,7 @@
     "devn": "सूर्य",
     "iast": "sūrya",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "sun",
     "pada": "G09"
   },
@@ -5427,7 +5427,7 @@
     "devn": "सेवक",
     "iast": "sevaka",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "attendant",
     "pada": "G12"
   },
@@ -5443,7 +5443,7 @@
     "devn": "स्कन्ध",
     "iast": "skandha",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "the shoulder",
     "pada": "M07"
   },
@@ -5467,7 +5467,7 @@
     "devn": "स्थान",
     "iast": "sthāna",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "a place",
     "pada": "M02"
   },
@@ -5523,7 +5523,7 @@
     "devn": "स्मृति",
     "iast": "smṛti",
     "part": "noun",
-    "gend": "f",
+    "gend": "F",
     "engl": "memory",
     "pada": "G11"
   },
@@ -5544,10 +5544,10 @@
     "pada": "G09"
   },
   {
-    "devn": "स्वग्राम​​",
+    "devn": "स्वग्राम",
     "iast": "svagrāma",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "one's own village",
     "pada": "M05"
   },
@@ -5563,15 +5563,15 @@
     "devn": "स्वयंवर",
     "iast": "svayaṃvara",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "literally 'self choice,' the name of a ceremony at which a princess chooses a husband, or has one chosen by contest",
     "pada": "G08"
   },
   {
-    "devn": "स्वर्ग​",
+    "devn": "स्वर्ग",
     "iast": "svarga",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "heaven",
     "pada": "M01, M02, M04, M05, G06"
   },
@@ -5603,7 +5603,7 @@
     "devn": "हननम्",
     "iast": "hananam",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "killing",
     "pada": "G06"
   },
@@ -5611,7 +5611,7 @@
     "devn": "हंस",
     "iast": "haṃsa",
     "part": "noun",
-    "gend": "m",
+    "gend": "M",
     "engl": "a kind of goose; Maurer notes that Sanskrit literature talks about a kind of goose which was believed capable of separating pure milk from a misture of milk and water, and that this special ability is often alluded to.",
     "pada": "M03"
   },
@@ -5656,10 +5656,10 @@
     "pada": "G04"
   },
   {
-    "devn": "ह्रदय​",
+    "devn": "ह्रदय",
     "iast": "hrdaya",
     "part": "noun",
-    "gend": "n",
+    "gend": "N",
     "engl": "the heart",
     "pada": "M08"
   }
