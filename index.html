@@ -35,6 +35,13 @@ webix.ui({
                             let css = item.part;
                             if (css.includes("noun")) {
                                 css = "noun";
+                                if (css.includes("proper")) {
+                                    css = "pronoun";
+                                } else if (css.includes("pro")) {
+                                    css = "pronoun";
+                                } else {
+                                    css = "noun";
+                                }
                             } else if (css.includes("verb")) {
                                 if (css.includes("adv")) {
                                     css = "adverb";
@@ -45,6 +52,10 @@ webix.ui({
                                 css = "adjective";
                             } else if (css.includes("adv")) {
                                 css = "adverb";
+                            } else if (css.includes("prefix")) {
+                                css = "prefix";
+                            } else if (css.includes("prefix")) {
+                                css = "prefix";
                             }
                             item.$css = css;
                         }

@@ -3,7 +3,7 @@ import pandas as pd
 import codecs as cd
 from git import Repo
 
-url = 'https://docs.google.com/spreadsheets/d/1gBftBUJqezG2QjUij7YBoZYQswpGYPYFmX9V3bfZues/gviz/tq?tqx=out:csv&sheet=Sheet1'
+url = 'https://docs.google.com/spreadsheets/d/1gBftBUJqezG2QjUij7YBoZYQswpGYPYFmX9V3bfZues/gviz/tq?tqx=out:csv&sheet=Glossary'
 r = rq.get(url, allow_redirects=True)
 open('data.csv', 'wb').write(r.content)
 
@@ -11,7 +11,7 @@ with open('data.csv', 'r', encoding='utf8') as fin:
     data = fin.read().splitlines(True)
 with open('data.csv', 'w', encoding='utf8') as fout:
     fout.write('devn,iast,part,gend,engl,pada\n')
-    fout.writelines(data[3:])
+    fout.writelines(data[2:])
 
 df = pd.read_csv(cd.open('data.csv', 'r', 'utf-8'))
 print(df.to_json(r'data.json', force_ascii=False, orient='records', lines=True))
