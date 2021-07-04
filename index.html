@@ -34,9 +34,8 @@ webix.ui({
                         $change: function(item) {
                             let css = item.part;
                             if (css.includes("noun")) {
-                                css = "noun";
                                 if (css.includes("proper")) {
-                                    css = "pronoun";
+                                    css = "propernoun";
                                 } else if (css.includes("pro")) {
                                     css = "pronoun";
                                 } else {
