@@ -1073,12 +1073,13 @@
 {"devn":"सेना","iast":"senā","part":"noun","gend":"f","engl":"army","pada":"G17"},
 {"devn":"सेवक","iast":"sevaka","part":"noun","gend":"m","engl":"attendant","pada":"G12"},
 {"devn":"सेवित","iast":"sevita","part":"adjective","gend":null,"engl":"served","pada":"G10"},
+{"devn":"सौमित्रि","iast":"saumitri","part":"proper noun","gend":"m","engl":"Saumitri, son of Sumitrā and Lakṣmaṇa","pada":"G18"},
 {"devn":"स्कन्ध","iast":"skandha","part":"noun","gend":"m","engl":"the shoulder","pada":"M07"},
 {"devn":"√स्तु (स्तौति)","iast":"√stu (stauti)","part":"verb, class 2 P","gend":null,"engl":"praise","pada":"G09"},
 {"devn":"स्त्री","iast":"strī","part":"noun","gend":"f","engl":"woman","pada":null},
 {"devn":"-स्थ","iast":"-stha","part":"adjectival suffix","gend":null,"engl":"standing (at the end of a compound only)","pada":"G17"},
 {"devn":"√स्था (तिष्ठति)","iast":"√sthā (tiṣṭhati)","part":"verb, class 1 P","gend":null,"engl":"to stand, be situated, stay, remain, be; usually attenuated to 'be.' ","pada":"M03, M06, M07, G07"},
-{"devn":"स्थान","iast":"sthāna","part":"noun","gend":"n","engl":"a place","pada":"M02"},
+{"devn":"स्थान","iast":"sthāna","part":"noun","gend":"n","engl":"a place","pada":"M02, G18"},
 {"devn":"स्थापयित्वा ","iast":"sthāpayitvā","part":"verb, class 1 P","gend":null,"engl":"having caused to stand (gerund of the causitive of √sthā (tiṣṭhati), stand","pada":"M07"},
 {"devn":"√स्ना (स्नाति)","iast":"√snā (snāti)","part":"verb, class 2 P","gend":null,"engl":"bathe","pada":"M07"},
 {"devn":"स्नात्वा ","iast":"snātvā","part":"verb, gerund","gend":null,"engl":"having bathed, gerund of √snā (snāti)","pada":"M07"},
@@ -1103,6 +1104,7 @@
 {"devn":"हीन","iast":"hīna","part":"adjective","gend":null,"engl":"devoid of, missing; Goldmans say simply = rahita, and this definition comes from that entry in their glossary","pada":"G16"},
 {"devn":"√हु (जुहोति)","iast":"√hu (juhoti)","part":"verb, class 3 P","gend":null,"engl":"offer","pada":"G09"},
 {"devn":"हे","iast":"he","part":"indeclinable","gend":null,"engl":"vocative particle (\"oh\") precedes vocative","pada":"G04"},
+{"devn":"हेम","iast":"hema","part":"noun","gend":null,"engl":"gold","pada":"G18"},
 {"devn":"हृदय","iast":"hṛdaya","part":"noun","gend":"n","engl":"the heart","pada":"M08, G14"},
 {"devn":"हृदये-√कृ (हृदयेकरोति)​","iast":"hṛdaye-√kṛ (hṛdayekaroti)","part":"verb, class 8 P","gend":null,"engl":"take seriously, take to heart (idiomatic)","pada":"G14"}
 ]
