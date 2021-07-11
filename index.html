@@ -17,19 +17,41 @@ const options = [
     { id: "M07", value: "M07" },
     { id: "M08", value: "M08" },
     { id: "M09", value: "M09" },
+    { id: "M10", value: "M10" },
+    { id: "M11", value: "M11" },
+    { id: "M12", value: "M12" },
+    { id: "M13", value: "M13" },
     { id: "G04", value: "G04" },
     { id: "G05", value: "G05" },
     { id: "G06", value: "G06" },
     { id: "G07", value: "G07" },
     { id: "G08", value: "G08" },
     { id: "G09", value: "G09" },
+    { id: "G10", value: "G10" },
+    { id: "G11", value: "G11" },
+    { id: "G12", value: "G12" },
+    { id: "G13", value: "G13" },
+    { id: "G14", value: "G14" },
+    { id: "G15", value: "G15" },
+    { id: "G16", value: "G16" },
+    { id: "G17", value: "G17" },
+    { id: "G18", value: "G18" },
+    { id: "G19", value: "G19" },
+    { id: "G20", value: "G20" },
+    { id: "G21", value: "G21" },
+    { id: "G22", value: "G22" },
 ];
+let batch1 = false;
 webix.ui({
     rows: [
-        { view: "template", type: "header", template: "Sanskrit Vocab from Maurer and Goldmans (Search for 'atha' to find rows containing 'atha'. Search for '^atha' to find rows beginning with 'atha'.)" },
+        { view: "template", type: "header", template: "Sanskrit Vocab from Maurer and Goldmans (Search for 'atha' to find rows containing 'atha'. Search for '^atha' to find rows beginning with 'atha'.) Last updated: 2021-07-11" },
         {
             cols: [
-                { view: "datatable", id: "tbl1", url: "data.json", datatype: "json", select: "row",
+                { view: "datatable", id: "tbl1", url: "data.json", datatype: "json", select: "row", resizeColumn: true, fixedRowHeight: false,
+                    ready: function() {
+                        this.adjustRowHeight("engl");
+                        this.adjustRowHeight("pada");
+                    },
                     scheme: {
                         $change: function(item) {
                             let css = item.part;
@@ -60,21 +82,37 @@ webix.ui({
                         }
                     },
                     columns: [
-                        { id: "devn", header: ["Devanagari", {content: "textFilter"}], sort: "string", width: 250, css: "devn" },
-                        { id: "iast", header: ["IAST", {content: "textFilter"}], sort: "string", width: 250 },
-                        { id: "part", header: ["Part of Speech", {content: "textFilter"}], sort: "string", width: 250 },
+                        { id: "devn", header: ["Devanagari", {content: "textFilter"}], sort: "string", fillspace: 3, css: "devn" },
+                        { id: "iast", header: ["IAST", {content: "textFilter"}], sort: "string", fillspace: 3 },
+                        { id: "part", header: ["Part of Speech", {content: "textFilter"}], sort: "string", fillspace: 2, batch: 1 },
                         { id: "gend", header: ["Gender", {content: "textFilter"}], sort: "string", width: 90 },
-                        { id: "engl", header: ["English", {content: "textFilter"}], sort: "string", width: 500 },
-                        { id: "pada", header: ["Chapter", {content: "selectFilter", options: options}], width: 300 }
+                        { id: "engl", header: ["English", {content: "textFilter"}], sort: "string", fillspace: 5, batch: 1 },
+                        { id: "pada", header: ["Chapter", {content: "selectFilter", options: options}], fillspace: 2 }
                     ],
                 },
                 { view: "resizer" },
-                { view: "form", id: "frm1", width: 500,
-                    elements: [
-                        { view: "text", name: "devn", css: "devnff", readonly: true },
-                        { view: "text", name: "iast", readonly: true },
-                        { view: "text", name: "part", readonly: true },
-                        { view: "textarea", name: "engl", readonly: true }
+                { id: "rcol",
+                    rows: [
+                        {
+                            cols: [
+                                { view: 'button', label: 'Practice', width: 80, click: () => {
+                                    $$("tbl1").showColumnBatch(1, batch1);
+                                    batch1 = !batch1;
+                                }},
+                                {},
+                                { view: 'button', label: 'Close', width: 80, click: () => {
+                                    $$("rcol").hide();
+                                }}
+                            ]
+                        },
+                        { view: "form", id: "frm1", width: 500,
+                            elements: [
+                                { view: "text", name: "devn", css: "devnff", readonly: true },
+                                { view: "text", name: "iast", readonly: true },
+                                { view: "text", name: "part", readonly: true },
+                                { view: "textarea", name: "engl", readonly: true }
+                            ]
+                        }
                     ]
                 }
             ]
