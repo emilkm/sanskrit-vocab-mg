@@ -44,7 +44,7 @@ const options = [
 let batch1 = false;
 webix.ui({
     rows: [
-        { view: "template", type: "header", template: "Sanskrit Vocab from Maurer and Goldmans (Search for 'atha' to find rows containing 'atha'. Search for '^atha' to find rows beginning with 'atha'.) Last updated: 2021-07-11" },
+        { view: "template", type: "header", template: "Sanskrit Vocab from Maurer and Goldmans (Search for 'atha' to find rows containing 'atha'. Search for '^atha' to find rows beginning with 'atha'.) Last updated: 2021-07-11 from <a href='https://docs.google.com/spreadsheets/d/1gBftBUJqezG2QjUij7YBoZYQswpGYPYFmX9V3bfZues/edit?fbclid=IwAR0tsUlcNOEaVoUrmV2OEnpduxibComPaQ7OEZag4SV-iUWTV4LbrGtkbrA'> source</a>" },
         {
             cols: [
                 { view: "datatable", id: "tbl1", url: "data.json", datatype: "json", select: "row", resizeColumn: true, fixedRowHeight: false,
